@@ -192,17 +192,29 @@ http://localhost/student-course-registeration/
 Add screenshots here for:
 
 * Homepage
+  <img width="1866" height="944" alt="image" src="https://github.com/user-attachments/assets/6b0f887a-3dc1-48cc-994f-738d030d787e" />
+
 * Add Student
+  <img width="1867" height="830" alt="image" src="https://github.com/user-attachments/assets/a83144ae-d957-4acb-bc5c-a9b416ab6c0a" />
+
 * Add Course
+  <img width="1863" height="648" alt="image" src="https://github.com/user-attachments/assets/4a20a816-303b-4c4e-9828-4cda367c580f" />
+
 * Registration Page
+  <img width="1864" height="662" alt="image" src="https://github.com/user-attachments/assets/0dc0059f-f400-4102-9b37-4df3c2bbb4e6" />
+
 * View Registrations
+  <img width="1866" height="661" alt="image" src="https://github.com/user-attachments/assets/2ec292ce-5a9d-4373-bd95-e7fa43dfc958" />
+
 * Total Credits
+  <img width="1868" height="602" alt="image" src="https://github.com/user-attachments/assets/d090ca0b-fee8-4f83-9372-5576c7c24874" />
+
 
 ---
 
 # 🔮 Future Improvements
 
-* User Authentication System
+* User login System
 * Update/Edit Functionality
 * Search & Filters
 * Export Reports
@@ -217,7 +229,3 @@ Add screenshots here for:
 * Jestin Jaison
 
 ---
-
-# 📄 License
-
-This project is developed for educational purposes.
