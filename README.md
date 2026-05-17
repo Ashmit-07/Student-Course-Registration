@@ -127,14 +127,6 @@ student-course-registeration/
 
 # ⚙️ Installation & Setup
 
-## 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-username/student-course-registeration.git
-```
-
----
-
 ## 2️⃣ Move Project Folder
 
 Move the folder into:
